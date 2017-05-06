@@ -35,7 +35,7 @@
         </div>
     </div>
 {/if}
-    
+
 <div id="header-holder">
     <div class="bottom-gradiant"></div>
     <nav id="main-nav" class="navbar navbar-default navbar-full">
@@ -178,7 +178,7 @@
 <div class="row-title-only container-fluid more-padding">
     <div class="container">
         <div class="row">
-            <div class="row-title">Why you’ll be happy with Space Host?</div>
+            <div class="row-title">选择我们的理由</div>
         </div>
     </div>
 </div>
@@ -192,7 +192,7 @@
                     </div>
                     <div class="feature-title">Site Bulilder</div>
                     <div class="feature-details">
-                        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+                        <p>我们提供最简单的方式来建立您的专属站点</p>
                         <h4>Site Bulilder</h4>
                     </div>
                 </div>
@@ -204,7 +204,7 @@
                     </div>
                     <div class="feature-title">100% Uptime</div>
                     <div class="feature-details">
-                        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+                        <p>我们承诺所有的虚拟机100%可用（网络原因除外）</p>
                         <h4>100% Uptime</h4>
                     </div>
                 </div>
@@ -216,7 +216,7 @@
                     </div>
                     <div class="feature-title">Fast Loaded</div>
                     <div class="feature-details">
-                        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+                        <p>所有的虚拟机均接入1Gbps网络环境来达到最快速度</p>
                         <h4>Fast Loaded</h4>
                     </div>
                 </div>
@@ -226,14 +226,14 @@
                     <div class="feature-icon">
                         <img src="{$WEB_ROOT}/templates/{$template}/images/feature4.svg" alt="">
                     </div>
-                    <div class="feature-title">Upload files</div>
+                    <div class="feature-title">Cloud Backup</div>
                     <div class="feature-details">
-                        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
-                        <h4>Upload files</h4>
+                        <p>我们能为虚拟机免费提供5GB的备份空间</p>
+                        <h4>Cloud Backup</h4>
                     </div>
                 </div>
             </div>
-            
+
         </div>
     </div>
 </div>
@@ -288,7 +288,7 @@
                     <div class="mfeature-text bg-color3">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium</div>
                 </div>
             </div>
-            
+
         </div>
     </div>
 </div>
@@ -333,7 +333,7 @@ Let’s get strated.</p>
 <div class="row-title-only container-fluid">
     <div class="container">
         <div class="row">
-            <div class="row-title">What people say about Space Host?</div>
+            <div class="row-title">客户的评价</div>
         </div>
     </div>
 </div>
@@ -345,7 +345,7 @@ Let’s get strated.</p>
                     <div class="row">
                         <div class="col-xs-3 img-holder dot-color1"><img src="{$WEB_ROOT}/templates/{$template}/images/person1.jpg" alt=""></div>
                         <div class="col-xs-9">
-                            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium</p>
+                            <p>简单，容易上手，最重要的是价格便宜</p>
                         </div>
                     </div>
                 </div>
@@ -353,7 +353,7 @@ Let’s get strated.</p>
                     <div class="row">
                         <div class="col-xs-3 img-holder dot-color2"><img src="{$WEB_ROOT}/templates/{$template}/images/person2.jpg" alt=""></div>
                         <div class="col-xs-9">
-                            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium</p>
+                            <p>稳定运行除了被攻击没有离线过</p>
                         </div>
                     </div>
                 </div>
@@ -367,7 +367,7 @@ See results.</div>
                     <div class="row">
                         <div class="col-xs-3 img-holder dot-color3"><img src="{$WEB_ROOT}/templates/{$template}/images/person3.jpg" alt=""></div>
                         <div class="col-xs-9">
-                            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium</p>
+                            <p>我搭建博客已经三年了，从没发现速度快价格这么低的服务器</p>
                         </div>
                     </div>
                 </div>
@@ -375,7 +375,7 @@ See results.</div>
                     <div class="row">
                         <div class="col-xs-3 img-holder dot-color4"><img src="{$WEB_ROOT}/templates/{$template}/images/person4.jpg" alt=""></div>
                         <div class="col-xs-9">
-                            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium</p>
+                            <p>很适合那些不喜欢折腾的人</p>
                         </div>
                     </div>
                 </div>
@@ -386,7 +386,7 @@ See results.</div>
 <div id="message-with-link" class="container-fluid">
     <div class="row">
         <div class="col-md-12">
-            <span class="text">Lorem ipsum dolor sit amet, consectetur adipiscing.</span> <a href="{$WEB_ROOT}/contact.php" class="button-bluegrey">Request a Demo</a><a href="{$WEB_ROOT}/register.php" class="button-purple">Create free account</a>
+            <span class="text">需要一台服务器么？</span> <a href="{$WEB_ROOT}/contact.php" class="button-bluegrey">自定义请求</a><a href="{$WEB_ROOT}/register.php" class="button-purple">创建一个免费的账号</a>
         </div>
     </div>
 </div>
